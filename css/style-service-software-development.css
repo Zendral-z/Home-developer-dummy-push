@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: none;
+    height: 4000px;
+}
+
+
+.nav-item {
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+/* banner service */
+.background-service {
+    background-image: url('../img/banner/img-banner-software-development.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 660px;
+} 
+
+.margin-bottom-sft-dev {
+    margin-bottom: 220px;
+}
+
+.background-service-group {
+    margin-top: -50px;
+    margin-left: 50px;
+}
+
+.img-service-group {
+    margin-left: 100px;
+    margin-top: -100px;
+}
+
+.title-page-service-sft-dev {
+    font-size: 36px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.title-page-service-sft-dev-span {
+    color: #FFC737;
+}
+
+.description-text-software-dev {
+    font-size: 14px;
+    font-weight: 400px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 20px;
+}
+
+.description-text-software-dev-span {
+    font-weight: 600;
+}
+
+.img-service-about-sft-dev {
+    margin-top: -400px;   
+}
+
+.Rectangle-img-service-sft-dev {
+    margin-top: 10px;
+    margin-left: 25px;
+}
